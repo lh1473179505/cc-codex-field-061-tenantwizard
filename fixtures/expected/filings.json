@@ -1,0 +1,20 @@
+{
+  "filings": [
+    {
+      "tenant": "acme",
+      "legal_name": "Acme Trading Co",
+      "tax_id": "TAX-ACME-0091",
+      "year": "2025",
+      "amount": "184200"
+    },
+    {
+      "tenant": "globex",
+      "legal_name": "Globex Holdings",
+      "tax_id": "TAX-GLX-7740",
+      "year": "2025",
+      "amount": "25950"
+    }
+  ],
+  "require_globex_rollback": true,
+  "require_distinct_filing_ids": true
+}

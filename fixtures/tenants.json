@@ -1,0 +1,23 @@
+{
+  "tenants": [
+    {
+      "id": "acme",
+      "username": "acme.bot",
+      "password": "acme-fixture-only",
+      "legal_name": "Acme Trading Co",
+      "tax_id": "TAX-ACME-0091",
+      "year": "2025",
+      "amount": "184200"
+    },
+    {
+      "id": "globex",
+      "username": "globex.bot",
+      "password": "globex-fixture-only",
+      "legal_name": "Globex Holdings",
+      "tax_id": "TAX-GLX-7740",
+      "year": "2025",
+      "amount_first_try": "1",
+      "amount": "25950"
+    }
+  ]
+}
